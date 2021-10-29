@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>Steven Kenie Cafu Bahun</b>.
 - 👀 I’m interested in <b>web development and data science</b> and all that is associated with it.
-- 🌱 I am currently exploring and learning ideas to fine tune my development skills alongside learning the italian language.
+- 🌱 I am currently exploring and learning ideas to fine tune my development skills.
 - 💞️ I am looking forward and open to collaborating on projects.
 - 📫 <b>english</b>:<b>advanced</b>, <b>french</b>: <b>intermediate</b>, <b>italian</b>: <b>beginner</b>.  
 
